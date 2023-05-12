@@ -1,6 +1,6 @@
-### Packmate
+# Packmate
 
-# 1.Outline the topic briefly
+## 1.Outline the topic briefly
 In today's fast-paced world, managing multiple tasks, appointments, and schedules has
 become a challenging task for individuals, especially those with busy lifestyles. Traditional
 paper-based methods of managing tasks and schedules have become outdated, and
@@ -11,7 +11,7 @@ state-of-the-art suitcase to provide an efficient and convenient experience for 
 app should provide features such as real-time tracking of luggage, weight tracking, packing
 lists, and other relevant information to make travel easier and more organized.
 
-# 2.Is there is any need of improvement?
+## 2.Is there is any need of improvement?
 Smart Suite App aims to solve this problem by providing a comprehensive solution for
 managing tasks, schedules,and reminders. The app will enable users to manage their daily
 tasks, set reminders, and keep track of their progress in real-time.
@@ -32,7 +32,7 @@ interface, a range of features, and the ability to customize the app according t
 preferences. The app will be designed to meet the needs of individuals with different
 lifestyles, professions, and requirements.
 
-# 3.Problem statement:
+## 3.Problem statement:
 The hassle of pushing along our baggage in the airport. It is a tedious process that aggravates
 our tiredness and difficulty during the journey. The air of our project “smart suitcase” is to
 eliminate the issue of pushing the suitcase around. Not only this will we also be adding
@@ -46,7 +46,7 @@ suitcase to provide an efficient and convenient experience for travellers. The a
 provide features such as real-time tracking of luggage and other relevant information to make
 travel easier and more organized.
 
-# 4.Project objective:
+## 4.Project objective:
 A smart suitcase app may have several objectives, depending on the specific features and
 functionalities it offers. Here are some potential objectives:
 
@@ -67,7 +67,7 @@ Overall, the objectives of a smart suitcase app are to improve the travel experi
 providing convenience, security, and assistance to travelers, and offering a range of features
 that help make travel smoother, easier, and more enjoyable.
 
-# 5.Heuristic Evaluation: Test which usability heuristics are violated
+## 5.Heuristic Evaluation: Test which usability heuristics are violated
 Visibility of system status: The app should provide clear and real-time information about the
 status of the suitcase, such as its location, weight, battery level, and whether it has been
 opened or closed.\
